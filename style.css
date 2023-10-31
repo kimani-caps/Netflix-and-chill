@@ -1,0 +1,251 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+    
+    
+}
+
+
+
+.background-clip{
+    position:absolute;
+    right: 0px;
+    top: -130px;
+    z-index: -1;
+    height: 700px;
+    
+    
+    
+    
+    
+}
+
+.video-containor{
+    color: white;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: -70px;
+    top: -70px;
+    padding: 0 30px;
+    font-size: 23px;
+    bottom: 10px;
+    
+
+    
+    
+}
+
+
+.button{
+    margin: 0;
+    padding: 4px 4px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+.video-containor button:hover{
+    color: red;
+    
+}
+.video-containor a{
+    width: 100px;
+    height: 100%;
+    padding:  0 10px;
+    margin: 5px;
+    display: inline-flex;
+    align-items: center;
+}
+ 
+.video-containor button{
+    color:white;
+    background: gray;
+    opacity: 40%;
+    
+}
+
+
+
+
+
+.icons{
+    color: white;
+}
+
+.icon2{
+    position:fixed;
+    padding: 0 1230px;
+    margin-top: -25px;
+}
+
+.icon3{
+    position: fixed;
+    padding: 0 1200px;
+    margin-top: -25px;
+}
+
+.image1{
+    position: relative;
+    top: -43px;
+    left: 25px;
+    padding: 0 10px;
+}
+
+
+.image2{
+    position: relative;
+    padding: 0 30px;
+
+}
+
+.image2 h2{
+    color: white;
+    position: relative;
+    margin-top: 40px;
+    padding: 0 50px;
+    top: -70px;
+    font-size: 12px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.info p{
+    color: white;
+    opacity: 80%;
+    font-size: 15px;
+    padding: 0 25px;
+}
+
+.info p1{
+    color: white;
+    font-size: 15px;
+    font-weight: 500px;
+    position: absolute;
+    padding: 0 25px;
+    
+}
+
+
+.new-releases{
+    top: 10px;
+    margin-top: 0;
+}
+
+.new-releases p{
+    color:white;
+    left: 20px;
+    position: relative;
+    margin-bottom: 80px;
+    top: 70px;
+    left: -0px;
+    
+}
+
+.Up-coming{
+    color: black;
+}
+
+
+.new-releases img{
+    padding: 0px;
+    top: 350px;
+    
+}
+
+
+
+.footer{
+    position: absolute;
+    background: black;
+    margin-top: 160px;
+    height: 60%;
+    width: 100%;
+}
+
+
+.footer .logo img{
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    right: -30%;
+    padding: 0 20px;
+}
+
+
+.kenyan p{
+    position: absolute;
+    color:white;
+    margin: 20px;
+    padding: 0 -17px;
+    bottom: -540px;
+    left: 95px;
+
+    
+}
+
+.pa p{
+    position: absolute;
+    color: white;
+    padding: 0 25px;
+    bottom: -600px;
+    left: 18px;
+    opacity: 50%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
